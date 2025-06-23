@@ -1,0 +1,24 @@
+ticket_number,description,assigned_group
+INC001,User unable to login to DisputeApp with email user1@example.com,SupportTeam
+<<<<<<< HEAD
+INC002,Request for data export from ReportApp,Analytics
+INC003,DisputeApp access request for user2@example.com,Support
+INC004,DisputeApp throwing 403 error while login with user3@xyz.com,Support
+INC005,Request for VPN access,IT
+INC006,Unable to access DisputeApp from mobile,MobileSupport
+INC007,Password reset needed for DisputeApp for user4@example.com,Helpdesk
+INC008,Report dashboard error,BI Team
+INC009,Login working fine but user can't see DisputeApp features,user-support
+INC010,ServiceNow access needed,user-support
+=======
+INC002,Getting 403 error while accessing the dashboard,AppTeam
+INC003,Need access to DisputeApp for user2@example.com,AccessGroup
+INC004,Feature request for reporting module,DevTeam
+INC005,User user3@example.com forgot password for DisputeApp,SupportTeam
+INC006,App crash observed on clicking submit,QA
+INC007,Access denied for user4@example.com while logging into DisputeApp,AccessGroup
+INC008,Performance issues in database queries,DBTeam
+INC009,DisputeApp not opening for user5@example.com,SupportTeam
+INC010,Need help with UI layout changes,FrontendTeam
+
+>>>>>>> 8cc73851914ee81eda36305c91bb7be75c6368bc
